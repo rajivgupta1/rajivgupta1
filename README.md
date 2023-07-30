@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajiv Gupta</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER</h3>
-<p align="center"> <img src="https://www.bigscal.com/wp-content/uploads/2022/09/Features-of-Mern-stack-development-services-You-Should-Know.png.webp " /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/rajivgupta1/rajivgupta1/main/Features-of-Mern-stack-development-services-You-Should-Know.png.webp " /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="rajivgupta1" /> </p>
 
